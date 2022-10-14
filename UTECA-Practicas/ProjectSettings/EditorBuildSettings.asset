@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TileMapTest.unity
+    guid: 22d05d6f4c7438e428fab3cc22284ab7
+  - enabled: 1
+    path: Assets/Scenes/TileMap Hexagonal.unity
+    guid: 2ba6b4d3eb7349f42b40d72d1ccf125c
   m_configObjects: {}
